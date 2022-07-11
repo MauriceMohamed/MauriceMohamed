@@ -24,4 +24,8 @@ My favourite Language is Python, I aim to work in data science or in software de
   - [jokeGenerator_v1](https://github.com/MauriceMohamed/JokeGen_mk1)
   - [bandNameGenerator_v1](https://github.com/MauriceMohamed/bandNameGenerator)
 
+Tell me I you want to know more about me !
+
+Love and unity !
+
 
