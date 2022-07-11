@@ -1,6 +1,4 @@
-# mauriceMohamed's Portfolio
-
-## I am a  student at the university of York.
+# I am a  student at the university of York.
 My favourite Language is Python, I aim to work in data science or in software devloppment.
 
 ### Here you will find all of my projects.
